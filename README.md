@@ -2,6 +2,7 @@
 Java program that finds the approximate best solution for the word hunt board with the most points. 
 
 How to use: 
+
 "Pick a size of the board"
 type a single number for the dimension of the board
 
