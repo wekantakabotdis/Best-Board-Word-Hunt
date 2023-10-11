@@ -74,7 +74,7 @@ class Main {
                 System.out.println("____________________________");
                 for(int j = 0; j < numChildren; j++) { //number of children per generation
                     char [][] childMap = new char [size][size];
-                    System.out.println("Gen " + (gen+1));
+                    System.out.println("Gen " + (gen));
                     System.out.println("Child " + (j+1));
                     for (int r = 0; r < childMap.length; r++) {
                         for (int c = 0; c < childMap[0].length; c++) {
